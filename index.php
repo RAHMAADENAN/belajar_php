@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
-    echo "rahma lope nuril, vanel lope abie";
+    echo "rahma lope nuril, vanel lope abie.";
+    
+    echo " rahma jodoh abe di masa depan";
     ?>
 </body>
 </html>
