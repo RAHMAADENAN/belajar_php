@@ -10,7 +10,7 @@
 <form action="data.php" method="POST">
     <p>Silahkan isi biodata ini</p>
     NISN : <input type="number" name="nisn"> <br>
-    NAma Lengkap : <input type="text" name="masukan nama anda"> <br>
+    Nama Lengkap : <input type="text" name="masukan nama anda"> <br>
     Tempat Lahir : <input type="text" name="tempat lahir"> <br>
     
 <p>
@@ -112,10 +112,11 @@ Asal Sekolah : <input type="text" name="asal sekolah"> <br>
     <input type="checkbox" name="Osis">Osis
     <input type="checkbox" name="Gerakan Disiplin Siswa">Gerakan Disiplin Siswa
     <input type="checkbox" name="Palang Merah Remaja">Palang Merah Remaja
-    
+
 </p>
 
-      
+    <p>
+        <input type="submit" name="submit" value="Daftar">  
       
     
 
